@@ -1,0 +1,24 @@
+# Web framework
+fastapi
+uvicorn
+
+# Data processing
+pandas
+numpy
+
+# Database
+sqlalchemy
+psycopg2-binary
+asyncpg
+
+# LLM
+google-genai
+httpx
+
+# PDF generation
+reportlab
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
